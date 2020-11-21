@@ -1,7 +1,8 @@
 # project-chemin
 
-## javac Main.java
-## java Main
+### Command lines to execute the code : 
+javac Main.java
+java Main
 
 The project is about to enter 2 cities, for example A and B and it returns the way you can go. (with a map and all the details about the ride)
 
