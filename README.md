@@ -4,3 +4,5 @@ The project is about to enter 2 cities, for example A and B and it returns the w
 
 There are 3 files .csv with BUS, CAR and TRAIN which it gives you all the data about the path between 2 cities always. 
 There are sereval details as the duration, the distance, the means of the transport and so on. 
+
+I use JavaFX for the interface.
